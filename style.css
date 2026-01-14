@@ -183,7 +183,6 @@ nav {
 }
 
 .slide-text::before {
-    content: '🎊';
     position: absolute;
     top: -40px;
     left: 50%;
@@ -802,5 +801,4 @@ footer {
     .footer-container {
         grid-template-columns: 1fr;
     }
-
 }
