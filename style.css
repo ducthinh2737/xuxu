@@ -739,13 +739,7 @@ footer {
     font-weight: 600;
 }
 
-.footer-bottom::before {
-    content: '🎊 ';
-}
 
-.footer-bottom::after {
-    content: ' 🎊';
-}
 
 @keyframes slideInDown {
     from {
@@ -808,4 +802,5 @@ footer {
     .footer-container {
         grid-template-columns: 1fr;
     }
+
 }
